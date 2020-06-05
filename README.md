@@ -1,2 +1,7 @@
-# Relatorio-de-vendas
-Uma Tabela com vendas para complementar meus estudos de Vue.js
+# Gerador de Qrcode
+
+Fiz uma gerador de qrcode para aprender sobre diretivas.
+
+![Alt Text](./qrcode/assets/GeradordeQrcode.gif)
+
+#
